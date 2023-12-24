@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **zumrakb8@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/zumrakucukbezirci.study/imported-from-reactive-resume-11082023151012](https://rxresu.me/zumrakucukbezirci.study/imported-from-reactive-resume-11082023151012)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
