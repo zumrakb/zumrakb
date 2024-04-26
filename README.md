@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS.**
 
-- 💬 Ask me about **JavaScript & ReactJS.**
+- 💬 Ask me about **JavaScript & ReactJS & Redux**
 
 - 📫 How to reach me **zumrakucukbezirci.study@gmail.com**
 
