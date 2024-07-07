@@ -19,7 +19,13 @@
 </a>
  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40" height="40"/>
+</a>  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
 </a>
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+</a>
+
  </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumrakb&show_icons=true&locale=en&layout=compact" alt="zumrakb" /></p>
