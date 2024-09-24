@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zümra Küçükbezirci.</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **THREE JS**
 
-- 💬 Ask me about **JavaScript & ReactJS & Redux**
+- 💬 Ask me about **JavaScript & ReactJS & Redux & NextJS & React Native**
 
 - 📫 How to reach me **zumrakucukbezirci.study@gmail.com**
 
