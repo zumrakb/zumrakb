@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zümra.</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **THREE JS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **JavaScript & ReactJS & Redux & NextJS & React Native**
 
