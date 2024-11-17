@@ -53,12 +53,16 @@
     </td>
     <td align="center" width="100">
   <h5>Tailwind CSS</h5>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-    </td>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+</td>
     <td align="center" width="100">
       <h5>Bootstrap</h5>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
     </td>
+    <td align="center" width="100">
+  <h5>ShadCN</h5>
+  <img src="https://raw.githubusercontent.com/shadcn/ui/master/public/logo.svg" alt="ShadCN" width="40" height="40"/>
+</td>
     <td align="center" width="100">
       <h5>Figma</h5>
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
