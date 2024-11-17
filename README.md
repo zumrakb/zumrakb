@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **THREE JS**
 
-- 💬 Ask me about **JavaScript & ReactJS & Redux & NextJS & React Native & **
+- 💬 Ask me about **JavaScript & ReactJS & Redux & NextJS & React Native**
 
 - 📫 How to reach me **zumrakucukbezirci.study@gmail.com**
 
