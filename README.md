@@ -29,20 +29,24 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </td>
     <td align="center" width="100">
-      <h5>Redux</h5>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-    </td>
-    <td align="center" width="100">
+  <h5>React.js</h5>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
+</td>
+<td align="center" width="100">
       <h5>Next.js</h5>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
     </td>
-    <td align="center" width="100">
+     <td align="center" width="100">
+      <h5>Three.js</h5>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
+    </td>
+     <td align="center" width="100">
       <h5>React Native</h5>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
     </td>
     <td align="center" width="100">
-      <h5>Three.js</h5>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
+      <h5>Redux</h5>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
     </td>
     <td align="center" width="100">
       <h5>Bootstrap</h5>
