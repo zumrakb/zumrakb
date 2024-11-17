@@ -48,14 +48,20 @@
       <h5>Redux</h5>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
     </td>
+     <td align="center" width="100">
+      <h5>CSS3</h5>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    </td>
+    <td align="center" width="100">
+  <h5>Tailwind CSS</h5>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+</td>
+
     <td align="center" width="100">
       <h5>Bootstrap</h5>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
     </td>
-    <td align="center" width="100">
-      <h5>CSS3</h5>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    </td>
+   
     <td align="center" width="100">
       <h5>Figma</h5>
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
