@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="100">
   <h5>ShadCN</h5>
-  <img src="https://raw.githubusercontent.com/shadcn/ui/master/public/logo.svg" alt="ShadCN" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8dYWJ-_SKJ2akzqJuvM_0Alw5qC0NEIauRg&s" alt="ShadCN" width="40" height="40"/>
 </td>
     <td align="center" width="100">
       <h5>Figma</h5>
