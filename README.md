@@ -18,9 +18,8 @@
 ### Languages and Tools:
 
 <table style="width: 100%;">
-  
   <tr style="width: 100%;">
-        <td align="center" width="100">
+      <td align="center" width="100">
       <h5>TypeScript</h5>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     </td>
@@ -55,13 +54,11 @@
     <td align="center" width="100">
   <h5>Tailwind CSS</h5>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-</td>
-
+    </td>
     <td align="center" width="100">
       <h5>Bootstrap</h5>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
     </td>
-   
     <td align="center" width="100">
       <h5>Figma</h5>
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
