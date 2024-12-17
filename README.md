@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **JavaScript & TyseScript & ReactJS & Redux & NextJS & React Native**
+- 💬 Ask me about **JavaScript & TyseScript & NextJS & ReactJS & Redux & React Native**
 
 - 📫 How to reach me **zumrakucukbezirci.study@gmail.com**
 
